@@ -45,5 +45,7 @@ fun main(){
 //    for(i in array6)
 //        println(i)
     println(array6.contentDeepToString())
+
+    println(array6.sortedArray().contentDeepToString())
 }
 
